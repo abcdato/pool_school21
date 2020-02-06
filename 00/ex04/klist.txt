@@ -1,0 +1,5 @@
+Credentials cache: API:11285
+        Principal: tmasala@21-SCHOOL.RU
+
+  Issued                Expires               Principal
+Jan 28 20:39:58 2020  Jan 29 20:39:58 2020  krbtgt/21-SCHOOL.RU@21-SCHOOL.RU
